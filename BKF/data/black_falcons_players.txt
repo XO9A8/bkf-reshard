@@ -1,0 +1,253 @@
+default password: password123, __pass till___@
+
+================================================================================
+PLAYER 1: AF Foysal Hosen
+================================================================================
+Name        : AF Foysal Hosen
+Game ID     : ASEQ-833-276-423
+Phone       : 01714862341
+Email       : foysalhosen77master@gmail.com
+DOB         : 2005-09-07
+District    : Bogura
+Blood Group : O+
+Device      : Symphony Z45
+Facebook    : https://www.facebook.com/af.foysal.hosen
+Local Photo : player_images/AF_Foysal_Hosen_ab7d39a1.jpg
+
+================================================================================
+PLAYER 2: Arian Hasan Rishad
+================================================================================
+Name        : Arian Hasan Rishad
+Game ID     : ASDM-574-495-494
+Phone       : N/A
+Email       : arianhassan661@gmail.com
+DOB         : N/A
+District    : Bogura
+Blood Group : N/A
+Device      : Redmi note 14 Pro Plus
+Facebook    : https://www.facebook.com/Arian.Hasan.Rishad
+Local Photo : player_images/Arian_Hasan_Rishad_87d9a51a.jpg
+
+================================================================================
+PLAYER 3: Harsha Bardhan Chakma
+================================================================================
+Name        : Harsha Bardhan Chakma
+Game ID     : ASPV-807-697-035
+Phone       : N/A
+Email       : chakma927@gmail.com
+DOB         : 2004-08-31
+District    : Rangamati
+Blood Group : O+
+Device      : Samsung galaxy A34
+Facebook    : https://www.facebook.com/harshabardan.chakma
+Local Photo : player_images/Harsha_Bardhan_Chakma_73e8b3f8.jpg
+
+================================================================================
+PLAYER 4: Jonayet Hossain
+================================================================================
+Name        : Jonayet Hossain
+Game ID     : ASAA-625-821-344
+Phone       : 01831502884
+Email       : 2107023.jonayet@gmail.com
+DOB         : 2003-03-11
+District    : Bogura
+Blood Group : O+
+Device      : Redmi Note 14 Pro+
+Facebook    : https://www.facebook.com/jonayet01
+Local Photo : player_images/Jonayet_Hossain_4d7a1d36.jpg
+
+================================================================================
+PLAYER 5: MD Ornob RK
+================================================================================
+Name        : MD Ornob RK
+Game ID     : ASKE-715-287-395
+Phone       : 01771025716
+Email       : mdr368798@gmail.com
+DOB         : 2003-11-20
+District    : Bogura
+Blood Group : O+
+Device      : realme8 5g
+Facebook    : https://www.facebook.com/md.ornob.rk
+Local Photo : player_images/MD_Ornob_RK_5f4c866a.jpg
+
+================================================================================
+PLAYER 6: Md. Raufur Rezul Aman
+================================================================================
+Name        : Md. Raufur Rezul Aman
+Game ID     : ASPU-651-488-739
+Phone       : 01849490372
+Email       : raufurrezul1499@gmail.com
+DOB         : 2004-03-22
+District    : Dinajpur
+Blood Group : B+
+Device      : Iqoo Neo 10
+Facebook    : https://www.facebook.com/share/1CyKFTuQj1/
+Local Photo : player_images/Md._Raufur_Rezul_Aman_eca7b981.jpg
+
+================================================================================
+PLAYER 7: Moin Uddin
+================================================================================
+Name        : Moin Uddin
+Game ID     : Assa 942 896 069
+Phone       : 01736060757
+Email       : umoin842@gmail.com
+DOB         : 2003-05-29
+District    : Dhaka
+Blood Group : O+
+Device      : Iqoo z11 turbo
+Facebook    : https://www.facebook.com/1moin7
+Local Photo : player_images/Moin_Uddin_01594cf0.jpg
+
+================================================================================
+PLAYER 8: Muhtasib Ibtida Kousik
+================================================================================
+Name        : Muhtasib Ibtida Kousik
+Game ID     : ASHN-653-871-727
+Phone       : 01615664070
+Email       : sk.muhtasibibtida5566@gmail.com
+DOB         : N/A
+District    : Bogura
+Blood Group : N/A
+Device      : Iqoo Z10 Turbo Pro
+Facebook    : https://www.facebook.com/share/1CwvvoGNAU/
+Local Photo : player_images/Muhtasib_Ibtida_Kousik_9e968a2c.jpg
+
+================================================================================
+PLAYER 9: Nafis Rafi
+================================================================================
+Name        : Nafis Rafi
+Game ID     : ASEQ-430-922-695
+Phone       : N/A
+Email       : tanvirrahman5676@gmail.com
+DOB         : N/A
+District    : Bogura
+Blood Group : N/A
+Device      : Redmi Turbo 4 pro
+Facebook    : https://www.facebook.com/nafis.rafi.359
+Local Photo : N/A
+
+================================================================================
+PLAYER 10: nishan khan
+================================================================================
+Name        : nishan khan
+Game ID     : ASAA-982-720-394
+Phone       : 01533364412
+Email       : nishankhanoo2020@gmail.com
+DOB         : 2003-09-11
+District    : Dhaka
+Blood Group : B+
+Device      : iQOO NEO 9
+Facebook    : https://www.facebook.com/nishan.khan.516317
+Local Photo : player_images/nishan_khan_6710034d.jpg
+
+================================================================================
+PLAYER 11: Rmk Fahim
+================================================================================
+Name        : Rmk Fahim
+Game ID     : 475382570
+Phone       : N/A
+Email       : rmkfahim4@gmail.com
+DOB         : N/A
+District    : Mymensingh
+Blood Group : N/A
+Device      : Samsung A90
+Facebook    : https://www.facebook.com/rmk.fahim
+Local Photo : player_images/Rmk_Fahim_7f12330d.jpg
+
+================================================================================
+PLAYER 12: Räkibül Häsäñ Säikät
+================================================================================
+Name        : Räkibül Häsäñ Säikät
+Game ID     : ASFY781506223
+Phone       : 01855081965
+Email       : rakibulhasan7992@gmail.com
+DOB         : 2002-05-02
+District    : Bogura
+Blood Group : A+
+Device      : Redmi K80
+Facebook    : https://www.facebook.com/saikathossain.hossain
+Local Photo : player_images/Räkibül_Häsäñ_Säikät_e6109d04.jpg
+
+================================================================================
+PLAYER 13: Saikat Chakma
+================================================================================
+Name        : Saikat Chakma
+Game ID     : ASDM-636-058-146
+Phone       : 01849406758
+Email       : saikatchakma20@gmail.com
+DOB         : 1004-11-24
+District    : Rangamati
+Blood Group : A+
+Device      : Xiaomi Redmi Note 9S
+Facebook    : https://www.facebook.com/saik.at.7334
+Local Photo : player_images/Saikat_Chakma_177a2e99.jpg
+
+================================================================================
+PLAYER 14: Shahriar Shadid
+================================================================================
+Name        : Shahriar Shadid
+Game ID     : ASEK-600-656-778
+Phone       : 01309404500
+Email       : sadidkabir007@gmail.com
+DOB         : 2005-12-30
+District    : Gaibandha
+Blood Group : B+
+Device      : Redmi Note 10 pro
+Facebook    : https://www.facebook.com/sadidshahriar.57
+Local Photo : player_images/Shahriar_Shadid_4a313c40.jpg
+
+================================================================================
+PLAYER 15: Shihab Shahriar
+================================================================================
+Name        : Shihab Shahriar
+Game ID     : ASNH-428-167-662
+Phone       : 01960501511
+Email       : shihabshahriyar614@gmail.com
+DOB         : 2002-10-04
+District    : Bogura
+Blood Group : B+
+Device      : Iqoo neo 10
+Facebook    : https://www.facebook.com/shihab.shahriar.974675
+Local Photo : player_images/Shihab_Shahriar_f0ebe195.jpg
+
+================================================================================
+PLAYER 16: Siam hossain
+================================================================================
+Name        : Siam hossain
+Game ID     : ASNQ141392591
+Phone       : 01701010309
+Email       : kahalu2@gmail.com
+DOB         : 2003-12-31
+District    : Bogura
+Blood Group : AB+
+Device      : iqoo z9 turbo
+Facebook    : https://www.facebook.com/siam.hossain.747598
+Local Photo : player_images/Siam_hossain_7d684dbf.jpg
+
+================================================================================
+PLAYER 17: TA Lisan
+================================================================================
+Name        : TA Lisan
+Game ID     : ASNU-450-935-746
+Phone       : 01608842393
+Email       : talishan2016@gmail.com
+DOB         : 2005-04-07
+District    : Kishoreganj
+Blood Group : B+
+Device      : Motorola edge 40 neo
+Facebook    : https://www.facebook.com/ta.lishan.9
+Local Photo : player_images/TA_Lisan_f6efc7c0.jpg
+
+================================================================================
+PLAYER 18: Xhohanur Rhaman
+================================================================================
+Name        : Xhohanur Rhaman
+Game ID     : ASPY842143242
+Phone       : 01345049949
+Email       : mdshohanmia0312@gmail.com
+DOB         : 2002-12-03
+District    : Bogura
+Blood Group : O+
+Device      : Redmi turbo 3
+Facebook    : https://www.facebook.com/61584072632731/
+Local Photo : player_images/Xhohanur_Rhaman_2c2884a8.jpg
